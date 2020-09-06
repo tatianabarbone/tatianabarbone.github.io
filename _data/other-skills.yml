@@ -1,0 +1,7 @@
+- name: iMovie
+  percentage: 100
+  color: primary
+
+- name: Adobe Photoshop
+  percentage: 95
+  color: primary
