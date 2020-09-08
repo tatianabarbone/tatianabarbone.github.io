@@ -35,7 +35,7 @@ author:
 analytics:
   enabled: true
   google:
-    tracking_id: UA-176701314-1
+    tracking_id: UA-176701314-2
 
 ### Posts ###
 permalink: /blog/:title
