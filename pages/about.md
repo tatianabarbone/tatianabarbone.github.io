@@ -11,7 +11,7 @@ Hi! I'm **{{ site.author.name }}**.
 
 Currently, I'm a student at the University of San Diego studying Computer Science.
 
-Last summer I worked as a Digital/IT Intern at Dell Technologies on the Connectivity/IoT team, where I analyzed and visualized aggregated log data in the connectivity space to create beautiful, useful, and concise data visualizations using [pandas](http://pandas.pydata.org/) and [matplotlib](https://matplotlib.org/).
+Last summer I worked as a Digital/IT Intern at Dell Technologies on the Connectivity and IoT team, where I analyzed and visualized aggregated log data in the connectivity space to create beautiful, useful, and concise data visualizations using [pandas](http://pandas.pydata.org/) and [matplotlib](https://matplotlib.org/).
 
 I'm currently working on learning [SQL](https://dev.mysql.com/doc/).
 
