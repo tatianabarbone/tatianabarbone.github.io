@@ -5,7 +5,11 @@
   tatianabarbone.github.io
 </h1>
 
-First iteration of my personal website. Built using [portfolYOU.](https://github.com/youssefraafatnasry/PortfolYOU)
+<p align="center">
+  The first iteration of my personal website. Built using <a href="https://www.gatsbyjs.org/" target="_blank">PortfolYOU.</a>
+</p>
+
+<div align="center">  [portfolYOU.](https://github.com/youssefraafatnasry/PortfolYOU)
 
 ## Features 🛠
 - Minimalist design
