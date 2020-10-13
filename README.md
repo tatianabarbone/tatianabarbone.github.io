@@ -9,8 +9,6 @@
   The first iteration of my personal website. Built using <a href="https://www.gatsbyjs.org/" target="_blank">PortfolYOU.</a>
 </p>
 
-<div align="center">  [portfolYOU.](https://github.com/youssefraafatnasry/PortfolYOU)
-
 ## Features 🛠
 - Minimalist design
 - [FormSubmit](https://formsubmit.co/)
