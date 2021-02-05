@@ -24,7 +24,6 @@ description         : >-
   Hi! I'm Tatiana, a Computer Science Student at the University of San Diego.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-# url: "https://www.renatofialho.com"  the base hostname & protocol for your site, e.g. http://example.com
 github_username:  tatianabarbone
 profile: https://avatars0.githubusercontent.com/u/52261336?s=460&amp;u=a6b8d2f53f3513783f3fdb65c0167340212dfae8&amp;v=4
 author:

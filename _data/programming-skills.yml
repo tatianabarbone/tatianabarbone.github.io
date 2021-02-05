@@ -1,7 +1,7 @@
 - name: Python
-  percentage: 95
+  percentage: 98
   color: primary
 
 - name: SQL
-  percentage: 95
+  percentage: 98
   color: primary
