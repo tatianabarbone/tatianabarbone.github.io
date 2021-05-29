@@ -5,15 +5,9 @@ permalink: /about/
 weight: 1
 ---
 
-# **About Me**
+# **About Tatiana**
 
-Hi! I'm Tatiana.
-
-Currently, I'm a student at the University of San Diego studying Computer Science.
-
-Last summer I worked as a Digital/IT Intern at Dell Technologies on the Connectivity and IoT team, where I analyzed and visualized aggregated log data in the connectivity space to create beautiful, useful, and concise data visualizations using [pandas](http://pandas.pydata.org/) and [matplotlib](https://matplotlib.org/). 
-
-Some of my hobbies include photography, graphic design and running.
+Tatiana is a graduate of the University of San Diego with a Bachelor's Degree in Computer Science and a minor in Mathematics. Previously interning at Dell Technologies, she will return in the fall of 2021 as a software engineer. In her free time, she enjoys photography, graphic design and running.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}

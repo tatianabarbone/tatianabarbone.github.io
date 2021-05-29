@@ -21,11 +21,11 @@
 title: Tatiana Barbone
 
 description         : >-
-  Hi! I'm Tatiana, a Computer Science Student at the University of San Diego.
+  Hi! I'm Tatiana, an incoming SWE at Dell Technologies.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 github_username:  tatianabarbone
-profile: https://avatars0.githubusercontent.com/u/52261336?s=460&amp;u=a6b8d2f53f3513783f3fdb65c0167340212dfae8&amp;v=4
+profile: /images/grad.jpg
 author:
   name: Tatiana Barbone
   github: tatianabarbone
