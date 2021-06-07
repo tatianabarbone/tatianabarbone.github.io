@@ -7,7 +7,7 @@ weight: 1
 
 # **About Tatiana**
 
-Tatiana is a graduate of the University of San Diego with a Bachelor's Degree in Computer Science and a minor in Mathematics. Previously interning at Dell Technologies, she will return in the fall of 2021 as a software engineer. In her free time, she enjoys photography, graphic design and running.
+Tatiana is a graduate of the University of San Diego with a Bachelor's Degree in Computer Science and a minor in Mathematics. Previously interning at Dell Technologies, she will return in the fall of 2021 as a software engineer. In her free time, she enjoys photography, graphic design and running. She is never one to pass up a Mario Kart tournament.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
