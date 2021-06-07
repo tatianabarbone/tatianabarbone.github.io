@@ -25,7 +25,7 @@ description         : >-
 
 baseurl: "" # the subpath of your site, e.g. /blog
 github_username:  tatianabarbone
-profile: /images/grad.jpg
+profile: /images/memoji.jpg
 author:
   name: Tatiana Barbone
   github: tatianabarbone
