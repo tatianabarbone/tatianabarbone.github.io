@@ -1,7 +1,19 @@
 - name: Python
-  percentage: 98
+  percentage: 100
   color: primary
 
 - name: SQL
-  percentage: 98
+  percentage: 100
   color: primary
+
+- name: HTML
+  percentage: 75
+  color: secondary
+
+- name: CSS
+  percentage: 75
+  color: secondary
+
+- name: JavaScript
+  percentage: 75
+  color: secondary

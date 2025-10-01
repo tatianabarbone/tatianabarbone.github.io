@@ -1,9 +1,17 @@
-- title: Data Analyst, Dell Technologies
+- title: Data Engineer II, Data Analyst @ Dell Technologies
   from: August 2021
-  to: Present
-  description: Part of the FY22 ITDP Cohort.
+  to: February 2025
+  description: 
+    • Revamped the Commercial Online Analytics dashboard, reducing page load times by 40% by replacing Tableau with a Python backend and custom frontend (HTML/CSS/JavaScript)
+    • Built a Streamlit-based form submission tool that automated SQL data entry on employee application data, saving 10+ hours/month for database administrators
+    • Compiled and presented 15 key IAM metrics to leadership monthly on PowerPoint, improving visibility into system access and reducing manual metric updates by 50%
 
-- title: Online Python Instructor, iD Tech
+- title: Freelance Graphic Designer, Upwork
+  from: June 2021
+  to: July 2021
+  description: As a freelance graphic designer, I collaborate with businesses, entrepreneurs, and agencies to create impactful visuals that drive engagement and tell compelling brand stories.
+
+- title: Python Instructor, iD Tech
   from: June 2021
   to: July 2021
   description: Taught Python courses to students aged 13-17.
@@ -17,6 +25,11 @@
   from: June 2020
   to: July 2020
   description: Interned on the Connectivity & IoT Team
-    • Applied data analytics techniques to format, combine and manipulate aggregated log data using industry standard analytics tools
-    • Analyzed and visualized data to identify indicative failure patterns in the connectivity space and suggested improved monitoring thresholds
-    • Provided a methodology for operational analytics
+    • Applied Python to analyze three months of Splunk logs, identifying failure patterns that increased monitoring accuracy by 30%
+    • Cleaned and visualized telemetry data in Jupyter, streamlining reporting processes for a 20% time savings
+    • Delivered operational analytics methodology that informed new monitoring thresholds to senior leadership
+
+- title: Student, University of San Diego
+  from: September 2017
+  to: May 2021
+  description: Offered 1x1 tutoring in Python. Taught the following classes with custom-created curriculum in small groups: Basics of Python for Beginners (K-1st grade), Introduction to Python for Adults, Coding Concepts
