@@ -1,7 +1,27 @@
+- name: Tableau
+  percentage: 100
+  color: primary
+
+- name: PowerBI
+  percentage: 100
+  color: primary
+
+- name: Excel
+  percentage: 100
+  color: primary
+
+- name: Jira
+  percentage: 75
+  color: primary
+
+- name: Canva
+  percentage: 100
+  color: primary
+
 - name: iMovie
   percentage: 100
   color: primary
 
-- name: Adobe Photoshop
-  percentage: 95
+- name: Photoshop
+  percentage: 100
   color: primary
